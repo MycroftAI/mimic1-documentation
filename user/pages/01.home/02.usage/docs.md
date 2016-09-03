@@ -27,7 +27,7 @@ Set voice(file):
 
 Set voice(url): 
 ```
-./bin/mimic -t "Hello" -voice voices/http://www.festvox.org/flite/packed/flite-2.0/voices/cmu_us_ksp.flitevox
+./bin/mimic -t "Hello" -voice http://www.festvox.org/flite/packed/flite-2.0/voices/cmu_us_ksp.flitevox
 ```
 
 Print mimic help info: 
