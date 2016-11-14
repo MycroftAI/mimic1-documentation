@@ -44,5 +44,5 @@ make
 ```
 
 >>>>> When rebuilding, often you will only need to run `make`.
-If you make changes to compile flags you will probobly want to
+If you make changes to compile flags you will probably want to
 run `make clean` before recompiling with `make`.
