@@ -7,7 +7,7 @@ taxonomy:
 
 #### The Code
 
-There are many ways to get involved in the Mimic project, you can check our [code repository on GitHub](https://github.com/MycroftAI/mimic) to contribute to the project itself, fork the project, and create pull requests.
+There are many ways to get involved in the Mimic project, you can check our [code repository on GitHub](https://github.com/MycroftAI/mimic) to contribute to the project itself, fork the project, and create pull requests. Continue to learn more about guidelines when contributing. 
 
 #### Voices
 
