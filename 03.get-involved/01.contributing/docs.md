@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-## How to Contribute 
-
 For those who wish to help contribute to the development of mimic there are a few things to keep in mind. 
   
 #### Git branching structure
